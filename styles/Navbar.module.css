@@ -1,0 +1,7 @@
+.navbar {
+  @apply bg-slate-600 p-3 flex flex-row;
+}
+
+.links {
+    @apply flex justify-start items-center space-x-2 text-white font-semibold;
+}
